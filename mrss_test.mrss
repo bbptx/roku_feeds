@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>KERAL.TV TEST</title>
+
+<item><guid>KERALTVTESTVID0001-191858655</guid><title>TEST Video 1</title><description>A short-form video-1</description><pubDate>2016-10-20T14:23:28</pubDate><media:category>Knanaya</media:category><media:content url="https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af" medium="video" duration="455" lang="eng"/><media:thumbnail type="image/jpg" url="https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450"/><media:rating>general</media:rating></item>
+
+<item><guid>KERALTVTESTVID0002-191858655</guid><title>TEST Video 2</title><description>A short-form video-2</description><pubDate>2016-10-20T14:23:28</pubDate><media:category>Knanaya</media:category><media:content url="https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af" medium="video" duration="455" lang="eng"/><media:thumbnail type="image/jpg" url="https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450"/><media:rating>general</media:rating></item>
+
+</channel></rss>
