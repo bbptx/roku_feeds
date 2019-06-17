@@ -1,0 +1,40 @@
+{
+	"providerName": "AAA Creations",
+	"lastUpdated": "2019-06-16T22:21:37+00:00",
+	"language": "en",
+	"shortFormVideos": [{
+		"id": "knanews-test01-mp4",
+		"title": "MP4 Test",
+		"content": {
+			"dateAdded": "2019-06-16T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/295715134.hd.mp4?s=5bc2c70c413b0f4e389570c1aba244c93b013d3e&profile_id=175",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 455
+		},
+		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/00/VLC_mp4.png",
+		"shortDescription": "A short-form video-1",
+		"longDescription": "testing mp4",
+		"releaseDate": "2019-06-16",
+		"tags": ["knanaya",
+		"Test"]
+	}
+	],
+	"categories": [{
+		"name": "Test videos",
+		"query": "Test",
+		"order": "most_recent"
+	},
+	{
+		"name": "Live videos",
+		"query": "live",
+		"order": "most_recent"
+	},
+	{
+		"name": "News",
+		"query": "news",
+		"order": "most_recent"
+	}]
+}
